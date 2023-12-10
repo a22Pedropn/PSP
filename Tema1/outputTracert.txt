@@ -1,0 +1,36 @@
+
+Traza a la direcci¢n iessanclemente.net [193.144.43.238]
+sobre un m ximo de 30 saltos:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     1 ms     1 ms    <1 ms  liveboxplus [192.168.1.1] 
+  3     3 ms     3 ms     3 ms  254.pool92-59-228.dynamic.orange.es [92.59.228.254] 
+  4     5 ms     5 ms     4 ms  10.255.59.177 
+  5     4 ms     8 ms     6 ms  10.255.59.129 
+  6    19 ms    18 ms    18 ms  10.34.162.1 
+  7    19 ms    18 ms    18 ms  10.34.34.221 
+  8    18 ms    18 ms    18 ms  10.34.34.214 
+  9    19 ms    18 ms    18 ms  10.34.160.97 
+ 10    19 ms    20 ms    19 ms  10.34.35.182 
+ 11    28 ms    19 ms    19 ms  rediris.baja.espanix.net [193.149.1.26] 
+ 12    27 ms    27 ms    27 ms  recetga-router.red.rediris.es [130.206.201.142] 
+ 13    28 ms    29 ms    28 ms  secure.cesga.es [193.144.36.59] 
+ 14     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 15     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 16     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 17     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 18     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 19     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 20     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 21     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 22     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 23     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 24     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 25     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 26     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 27     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 28     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 29     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 30     *        *        *     Tiempo de espera agotado para esta solicitud.
+
+Traza completa.

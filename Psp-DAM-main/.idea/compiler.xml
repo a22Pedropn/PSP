@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="du1-exercice2" />
+        <module name="du2-exercice5" />
+        <module name="du2-exercice4" />
+        <module name="du1-exercice4" />
+        <module name="du2-exercice7" />
+        <module name="du1-exercice3" />
+        <module name="du2-exercice6" />
+        <module name="du2-exercice8" />
+        <module name="du1-exercice15" />
+        <module name="du1-exercice9" />
+        <module name="du1-exercice6" />
+        <module name="du2-exercice1" />
+        <module name="du1-exercice11" />
+        <module name="du1-exercice5" />
+        <module name="du1-exercice10" />
+        <module name="du1-exercice8" />
+        <module name="du2-exercice3" />
+        <module name="du1-exercice13" />
+        <module name="du1-exercice7" />
+        <module name="du2-exercice2" />
+        <module name="du1-exercice12" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

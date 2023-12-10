@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/du1-exercice2/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice3/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice4/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice5/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice6/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice7/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice8/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice9/pom.xml" />
+        <option value="$PROJECT_DIR$/du2-exercice1/pom.xml" />
+        <option value="$PROJECT_DIR$/du2-exercice2/pom.xml" />
+        <option value="$PROJECT_DIR$/du2-exercice3/pom.xml" />
+        <option value="$PROJECT_DIR$/du2-exercice4/pom.xml" />
+        <option value="$PROJECT_DIR$/du2-exercice5/pom.xml" />
+        <option value="$PROJECT_DIR$/du2-exercice6/pom.xml" />
+        <option value="$PROJECT_DIR$/du2-exercice7/pom.xml" />
+        <option value="$PROJECT_DIR$/du2-exercice8/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice10/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice11/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice12/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice13/pom.xml" />
+        <option value="$PROJECT_DIR$/du1-exercice15/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="21 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
