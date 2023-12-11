@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e418c699-1c90-4259-8eed-d6d98a0c833b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Globos/src/BalloonPricker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libreria/Libreria.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libreria/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libreria/src/ReadBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libreria/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Panaderia/Panaderia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Panaderia/src/Clerk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Panaderia/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Panaderia/src/TakeANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Globos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Globos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Globos/src/BalloonBlower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Globos/src/BalloonBlower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Globos/src/Balloons.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Globos/src/Balloons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Globos/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Globos/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ZNDHjnhDT1kyZK6yN1BmKqlsyd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TabaccoShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TabaccoShop" />
+      <module name="Tabaco" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TabaccoShop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e418c699-1c90-4259-8eed-d6d98a0c833b" name="Changes" comment="" />
+      <created>1702253558924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702253558924</updated>
+    </task>
+    <servers />
+  </component>
+</project>
