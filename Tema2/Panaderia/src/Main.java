@@ -2,6 +2,7 @@ public class Main {
     public static final int MAX_CLIENTS = 100;
 
     public static void main(String[] args) {
+
         System.out.println("Starting clerk and customer threads");
 
         TakeANumber numberGadget = new TakeANumber(MAX_CLIENTS);
